@@ -1,0 +1,18 @@
+--> What This Approach Achieves
+Clean separation of logic and usage.
+
+Easier to maintain and reuse code.
+
+Follows OOP principles (like abstraction and separation of concerns).
+
+--> In professional C++:
+This is the standard way to organize code — especially for:
+
+Libraries
+
+Classes
+
+Large projects
+
+Teams working on shared components
+
