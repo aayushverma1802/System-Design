@@ -23,3 +23,5 @@ int main()
     ptr = &obj;
     ptr->func();
 }
+//  So... why use override if everything works the same?
+//  Reason: To catch silent bugs that are very hard to see
