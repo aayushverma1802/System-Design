@@ -1,3 +1,6 @@
+// The Decorator Pattern lets you add new features/behaviors to objects without modifying their original class.
+
+// Think of it as wrapping the object with extra functionality — like putting a pizza in a box, and then wrapping it again in gift paper. Same pizza, more stuff.
 #include <iostream>
 using namespace std;
 
